@@ -1,40 +1,78 @@
-AlertOps Expert Guidance
+Have You Standardized Your Incident Response Process?
 ========
 
  
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+An incident response process is a business process and should be treated accordingly. Because if your enterprise puts its incident response process on the backburner, the consequences could be severe.
 
-Not One Size Fits All
+For example, consider what could happen if an enterprise that lacks a standard incident response process suffers an outage.
+
+In the aforementioned scenario, an enterprise incident management team will identify, investigate and respond to the outage. Team members likely will keep in touch with one another and work as a unit to resolve the outage as quickly as possible.
+
+Without a standard incident response process, however, some incident management team members may work independently. This could lead to miscommunications that delay incident response and resolution.
+
+And what happens if incident management team members fail to update customers, C-suite executives and other key stakeholders about the outage?
+====
+Without the proper incident response process in place, enterprise stakeholders won’t know why various networks and services are unavailable. This ultimately will disrupt the business and create headaches for customers and employees alike.
+
+For customers, they may contact an enterprise’s client services team for support. Yet if this team is not updated about the outage, it won’t be able to fulfill customer requests.
+
+Let’s not forget about the brand reputation damage and revenue losses the enterprise may suffer due to the outage, either.
+
+Even a minor outage and its associated network and service disruptions may lead customers to consider the enterprise’s rivals. Meanwhile, the loss of customers likely will cause the enterprise to suffer short- and long-term revenue losses as well.
+
+Furthermore, the outage may result in a service-level agreement (SLA) violation. Failure to comply with an SLA could lead to penalties, along with additional brand reputation damage and revenue losses.
+
+Tips to Standardize Your Incident Response Process
 =====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Incident response process standardization is key. If your business develops and deploys a standard incident response process, it should have no trouble keeping key stakeholders up to date until an incident is resolved.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Now, let’s take a look at five tips to help you standardize your incident response process.
 
-Automate Processes
+Perform an Asset Analysis
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+If you understand your enterprise assets, you can determine exactly what you need to do to protect your assets against downtime, outages and other incidents. You then can implement a standard incident response process to safeguard your critical assets.
 
-Clarity
+Create a list of applications, users, databases and other assets that are critical to your business’ day-to-day operations. Next, establish priorities based on the value that each asset provides to your company.
+
+    Foster Collaboration and Communication
+
+An incident monitoring system enables an incident management team to keep in touch with key stakeholders via Slack, HipChat and other communication platforms. Incident management team members can use the system to provide real-time status incident response status updates to stakeholders via SMS, email and other communication methods.
+
+Additionally, an incident tracking system can be quickly integrated into an enterprise’s existing monitoring tools. This ensures an incident management team can use the system to standardize its alert notification flows and response.
+
+Create Message Templates
 ====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Alert management software with custom message templates enables an incident management team to deliver the right message to the right audience. It helps an incident management team streamline its incident response notifications, too.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+An incident management team can use alert tracking software with custom message templates to define template fields that map to external systems like JIRA. Plus, it can leverage the system to store data from external systems in custom fields and write custom fields from the software itself.
 
-Insightful Notifications
+Incident management team members also can leverage alert tracking software with custom message templates to establish workflows that automatically create JIRA issues from incidents. They can even use the software to create workflows that evaluate custom fields. 
+
+Automate Message Delivery
 ====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+An incident tracking system that offers automated workflows delivers incident response updates at the right time, every time. That way, key stakeholders are kept in the loop at all stages of an incident.
 
-Conclusion
+Incident management team members can use an incident tracking system with automated workflows to streamline systems integrations as well. By doing so, team members can automate call-backs to ticketing software or forward flows to open and close tickets and notify key stakeholders based on events.
+
+Track Incident Response Data
 ====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+An alert monitoring system with reporting capabilities is a must-have, particularly for an enterprise incident management team that wants to standardize its incident response process. This system allows an incident management team to track all aspects of an incident.
 
-1 Red Canary 2021 Threat Detection Report
+Data can be collected throughout the course of an incident. It then can be used to report on the incident, explore ways to improve future incident response efforts and ensure the same issue does not happen once again.
+
+Moreover, an incident management team can use alert tracking system reports to monitor issues weekly, monthly, quarterly or yearly. And if an incident management team performs regular data analysis, it could discover innovative ways to drive meaningful business improvements.
+
+Bottom Line on Standardizing Your Incident Response Process
+====
+
+Developing a standard incident response process may seem complex at first, but doing so may actually be easier than you think.
+
+Thanks to the aforementioned tips, an enterprise incident management team can create a standard incident response process. As a result, this team can implement a standard process to speed up and improve its incident response efforts both now and in the future.
+
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/standardized-incident-response-process/
 
 Read more:
 ====
